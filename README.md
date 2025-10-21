@@ -2,6 +2,12 @@
 
 A single-page website that demonstrates code obfuscation through Base64 encoding. The entire website content is hidden within a single Base64 string, creating a digital sleight of hand.
 
+## View the Site
+
+🌐 **Live Demo**: [one-line-website.vercel.app](https://one-line-website.vercel.app/)
+
+Or simply open `index.html` in any modern web browser to see the obfuscation in action.
+
 ## How It Works
 
 The `index.html` file contains only a few lines of code and a massive Base64 string. When opened in a browser, JavaScript decodes this string to render a complete website about obfuscation techniques.
@@ -37,10 +43,6 @@ This project explores the boundary between readable and unreadable code, demonst
 - CSS animations for subtle 3D effects
 - Responsive design
 - Terminal-inspired aesthetics
-
-## View the Site
-
-Simply open `index.html` in any modern web browser to see the obfuscation in action.
 
 ---
 
